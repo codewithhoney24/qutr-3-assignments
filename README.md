@@ -32,7 +32,7 @@ Extend the existing `guardrails.py` example to add output guardrails using OpenA
 - Add rules so agent responses avoid political topics and references to political figures.
 
 **Code Location:**  
-[`assignment2_guardrails/guardrails.py`](assignment2_guardrails/guardrails.py)
+[guardrails.py](assignment2_guardrails/my-agent/guardrails.py)
 
 ---
 
