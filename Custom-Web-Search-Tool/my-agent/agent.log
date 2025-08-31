@@ -1,0 +1,7 @@
+2025-09-01 02:04:48,762 - INFO - BotAgent received query: Check order 1001
+2025-09-01 02:04:48,763 - INFO - Order status checked: 1001 \u2192 Shipped
+2025-09-01 02:04:48,765 - INFO - Guardrail triggered: You are stupid
+2025-09-01 02:04:48,765 - INFO - HumanAgent handling query: You are stupid
+2025-09-01 02:04:48,766 - INFO - BotAgent received query: What is the status of order 9999
+2025-09-01 02:04:48,766 - INFO - BotAgent received query: Hello, how are you?
+2025-09-01 02:04:48,766 - INFO - HumanAgent handling query: Hello, how are you?

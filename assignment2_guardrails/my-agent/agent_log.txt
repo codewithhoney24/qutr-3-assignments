@@ -1,0 +1,6 @@
+2025-08-31 17:59:00,356 - INFO - User Query: 2 + 2
+2025-08-31 17:59:01,450 - INFO - User Query: Check order 123
+2025-08-31 17:59:01,452 - INFO - User Query: Tell me about politics
+2025-08-31 17:59:01,453 - INFO - User Query: You are stupid
+2025-08-31 17:59:01,453 - WARNING - Escalation triggered due to negative sentiment.
+2025-08-31 17:59:01,454 - INFO - User Query: What is the capital of France
