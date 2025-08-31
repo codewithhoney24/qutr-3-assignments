@@ -18,7 +18,8 @@ Build a custom web search tool using the Tavily API integrated with an AI Agent 
 - Ensure the tool can be called by an AI agent to answer user queries.
 
 **Code Location:**  
-[`Custom-Web-Search-Tool/`](Custom-Web-Search-Tool/)
+[Custom-Web-Search-Tool/](Custom-Web-Search-Tool/)
+
 
 ---
 
